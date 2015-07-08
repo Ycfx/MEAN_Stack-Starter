@@ -18,7 +18,8 @@ How to use it to build any MEAN Stack application ?
 5. View in browser at http://localhost:8080
 
 ## Done!
-- MongoDb example using Mongoose
+- MongoDb example using Mongoose.
+
 ## To Do!
 - CRUD system
-- 
+ 
