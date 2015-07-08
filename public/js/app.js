@@ -1,0 +1,1 @@
+angular.module('StarterKit', ['ngRoute', 'appRoutes', 'MainCtrl', 'Test1Ctrl', 'Test1Service', 'Test2Ctrl', 'Test2Service','DbTestCtrl','DbTestService']);
