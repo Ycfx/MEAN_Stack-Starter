@@ -14,8 +14,9 @@ How to use it to build any MEAN Stack application ?
 1. Download the repository
 2. Install npm modules: `npm install`
 3. Install bower dependencies `bower install`
-4. Start up the server: `node server.js`
-5. View in browser at http://localhost:8080
+4. Create a database `dbtest`, and a collection `tests` 
+5. Start up the server: `node server.js`
+6. View in browser at http://localhost:8080
 
 ## Done!
 - MongoDb example using Mongoose.
