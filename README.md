@@ -22,7 +22,7 @@ How to use it to build any MEAN Stack application ?
 - MongoDb example using Mongoose.
 
 ## To Do!
-- Custom Sign up and Sign in system
-- Custom group management system
+- Customized Sign up and Sign in system
+- Customized group management system
 - CRUD system
  
